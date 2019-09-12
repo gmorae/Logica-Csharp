@@ -17,7 +17,7 @@ namespace PrimeiroApp
             Console.WriteLine("Digite a terceira nota: ");
             n3 = int.Parse(Console.ReadLine());
             soma = (n1 + n2 + n3) / 3;
-            Console.WriteLine("A média do aluno é = {0}", soma);
+            Console.WriteLine($"A média do aluno é = {soma}");
         }
     }
 }
