@@ -14,8 +14,8 @@ namespace Ano_de_nascimento
             anoAtual = int.Parse(Console.ReadLine());
 
             int idade = anoAtual - anoNascimento;
-            int meses = idade * 12;
-            int semana = meses / 4;
+            int dias = idade * 365;
+            int semana = dias / 7;
             Console.WriteLine($"A sua idade é = {idade} anos");
             Console.WriteLine($"E você viveu {semana} semanas");
 
