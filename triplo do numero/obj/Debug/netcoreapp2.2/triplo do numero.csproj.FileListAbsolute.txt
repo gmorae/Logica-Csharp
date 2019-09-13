@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Treinando-c-\triplo do numero\obj\Debug\netcoreapp2.2\triplo do numero.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Treinando-c-\triplo do numero\obj\Debug\netcoreapp2.2\triplo do numero.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Treinando-c-\triplo do numero\obj\Debug\netcoreapp2.2\triplo do numero.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Treinando-c-\triplo do numero\obj\Debug\netcoreapp2.2\triplo do numero.AssemblyInfo.cs
+C:\Users\fic\Desktop\Treinando-c-\triplo do numero\bin\Debug\netcoreapp2.2\triplo do numero.deps.json
+C:\Users\fic\Desktop\Treinando-c-\triplo do numero\bin\Debug\netcoreapp2.2\triplo do numero.runtimeconfig.json
+C:\Users\fic\Desktop\Treinando-c-\triplo do numero\bin\Debug\netcoreapp2.2\triplo do numero.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Treinando-c-\triplo do numero\bin\Debug\netcoreapp2.2\triplo do numero.dll
+C:\Users\fic\Desktop\Treinando-c-\triplo do numero\bin\Debug\netcoreapp2.2\triplo do numero.pdb
+C:\Users\fic\Desktop\Treinando-c-\triplo do numero\obj\Debug\netcoreapp2.2\triplo do numero.dll
+C:\Users\fic\Desktop\Treinando-c-\triplo do numero\obj\Debug\netcoreapp2.2\triplo do numero.pdb
