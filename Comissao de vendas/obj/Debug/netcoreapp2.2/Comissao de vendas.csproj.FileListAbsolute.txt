@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Treinando-c-\Comissao de vendas\bin\Debug\netcoreapp2.2\Comissao de vendas.deps.json
+C:\Users\fic\Desktop\Treinando-c-\Comissao de vendas\bin\Debug\netcoreapp2.2\Comissao de vendas.runtimeconfig.json
+C:\Users\fic\Desktop\Treinando-c-\Comissao de vendas\bin\Debug\netcoreapp2.2\Comissao de vendas.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Treinando-c-\Comissao de vendas\bin\Debug\netcoreapp2.2\Comissao de vendas.dll
+C:\Users\fic\Desktop\Treinando-c-\Comissao de vendas\bin\Debug\netcoreapp2.2\Comissao de vendas.pdb
+C:\Users\fic\Desktop\Treinando-c-\Comissao de vendas\obj\Debug\netcoreapp2.2\Comissao de vendas.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Treinando-c-\Comissao de vendas\obj\Debug\netcoreapp2.2\Comissao de vendas.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Treinando-c-\Comissao de vendas\obj\Debug\netcoreapp2.2\Comissao de vendas.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Treinando-c-\Comissao de vendas\obj\Debug\netcoreapp2.2\Comissao de vendas.AssemblyInfo.cs
+C:\Users\fic\Desktop\Treinando-c-\Comissao de vendas\obj\Debug\netcoreapp2.2\Comissao de vendas.dll
+C:\Users\fic\Desktop\Treinando-c-\Comissao de vendas\obj\Debug\netcoreapp2.2\Comissao de vendas.pdb
