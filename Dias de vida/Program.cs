@@ -19,7 +19,7 @@ namespace Dias_de_vida
 
             // Respostas
 
-            Console.WriteLine($"meses = {meses},\n dias = {dias},\n horas = {horas}\n minuto = {minutos}");
+            Console.WriteLine($"meses = {meses},\n dias = {dias},\n horas = {horas} \n minuto = {minutos}");
         }
     }
 }
