@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Treinando-c-\Ano de nascimento\bin\Debug\netcoreapp2.2\Ano de nascimento.deps.json
+C:\Users\fic\Desktop\Treinando-c-\Ano de nascimento\bin\Debug\netcoreapp2.2\Ano de nascimento.runtimeconfig.json
+C:\Users\fic\Desktop\Treinando-c-\Ano de nascimento\bin\Debug\netcoreapp2.2\Ano de nascimento.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Treinando-c-\Ano de nascimento\bin\Debug\netcoreapp2.2\Ano de nascimento.dll
+C:\Users\fic\Desktop\Treinando-c-\Ano de nascimento\bin\Debug\netcoreapp2.2\Ano de nascimento.pdb
+C:\Users\fic\Desktop\Treinando-c-\Ano de nascimento\obj\Debug\netcoreapp2.2\Ano de nascimento.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Treinando-c-\Ano de nascimento\obj\Debug\netcoreapp2.2\Ano de nascimento.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Treinando-c-\Ano de nascimento\obj\Debug\netcoreapp2.2\Ano de nascimento.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Treinando-c-\Ano de nascimento\obj\Debug\netcoreapp2.2\Ano de nascimento.AssemblyInfo.cs
+C:\Users\fic\Desktop\Treinando-c-\Ano de nascimento\obj\Debug\netcoreapp2.2\Ano de nascimento.dll
+C:\Users\fic\Desktop\Treinando-c-\Ano de nascimento\obj\Debug\netcoreapp2.2\Ano de nascimento.pdb
