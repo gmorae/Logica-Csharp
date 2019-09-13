@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Treinando-c-\Dias de vida\obj\Debug\netcoreapp2.2\Dias de vida.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Treinando-c-\Dias de vida\obj\Debug\netcoreapp2.2\Dias de vida.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Treinando-c-\Dias de vida\obj\Debug\netcoreapp2.2\Dias de vida.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Treinando-c-\Dias de vida\obj\Debug\netcoreapp2.2\Dias de vida.AssemblyInfo.cs
+C:\Users\fic\Desktop\Treinando-c-\Dias de vida\bin\Debug\netcoreapp2.2\Dias de vida.deps.json
+C:\Users\fic\Desktop\Treinando-c-\Dias de vida\bin\Debug\netcoreapp2.2\Dias de vida.runtimeconfig.json
+C:\Users\fic\Desktop\Treinando-c-\Dias de vida\bin\Debug\netcoreapp2.2\Dias de vida.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Treinando-c-\Dias de vida\bin\Debug\netcoreapp2.2\Dias de vida.dll
+C:\Users\fic\Desktop\Treinando-c-\Dias de vida\bin\Debug\netcoreapp2.2\Dias de vida.pdb
+C:\Users\fic\Desktop\Treinando-c-\Dias de vida\obj\Debug\netcoreapp2.2\Dias de vida.dll
+C:\Users\fic\Desktop\Treinando-c-\Dias de vida\obj\Debug\netcoreapp2.2\Dias de vida.pdb
