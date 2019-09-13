@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Treinando-c-\reais para dolar\bin\Debug\netcoreapp2.2\reais para dolar.deps.json
+C:\Users\fic\Desktop\Treinando-c-\reais para dolar\bin\Debug\netcoreapp2.2\reais para dolar.runtimeconfig.json
+C:\Users\fic\Desktop\Treinando-c-\reais para dolar\bin\Debug\netcoreapp2.2\reais para dolar.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Treinando-c-\reais para dolar\bin\Debug\netcoreapp2.2\reais para dolar.dll
+C:\Users\fic\Desktop\Treinando-c-\reais para dolar\bin\Debug\netcoreapp2.2\reais para dolar.pdb
+C:\Users\fic\Desktop\Treinando-c-\reais para dolar\obj\Debug\netcoreapp2.2\reais para dolar.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Treinando-c-\reais para dolar\obj\Debug\netcoreapp2.2\reais para dolar.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Treinando-c-\reais para dolar\obj\Debug\netcoreapp2.2\reais para dolar.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Treinando-c-\reais para dolar\obj\Debug\netcoreapp2.2\reais para dolar.AssemblyInfo.cs
+C:\Users\fic\Desktop\Treinando-c-\reais para dolar\obj\Debug\netcoreapp2.2\reais para dolar.dll
+C:\Users\fic\Desktop\Treinando-c-\reais para dolar\obj\Debug\netcoreapp2.2\reais para dolar.pdb
