@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Treinando-c-\Salario com o nome\bin\Debug\netcoreapp2.2\Salario com o nome.deps.json
+C:\Users\fic\Desktop\Treinando-c-\Salario com o nome\bin\Debug\netcoreapp2.2\Salario com o nome.runtimeconfig.json
+C:\Users\fic\Desktop\Treinando-c-\Salario com o nome\bin\Debug\netcoreapp2.2\Salario com o nome.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Treinando-c-\Salario com o nome\bin\Debug\netcoreapp2.2\Salario com o nome.dll
+C:\Users\fic\Desktop\Treinando-c-\Salario com o nome\bin\Debug\netcoreapp2.2\Salario com o nome.pdb
+C:\Users\fic\Desktop\Treinando-c-\Salario com o nome\obj\Debug\netcoreapp2.2\Salario com o nome.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Treinando-c-\Salario com o nome\obj\Debug\netcoreapp2.2\Salario com o nome.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Treinando-c-\Salario com o nome\obj\Debug\netcoreapp2.2\Salario com o nome.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Treinando-c-\Salario com o nome\obj\Debug\netcoreapp2.2\Salario com o nome.AssemblyInfo.cs
+C:\Users\fic\Desktop\Treinando-c-\Salario com o nome\obj\Debug\netcoreapp2.2\Salario com o nome.dll
+C:\Users\fic\Desktop\Treinando-c-\Salario com o nome\obj\Debug\netcoreapp2.2\Salario com o nome.pdb
