@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Treinando-c-\Conta de divida\bin\Debug\netcoreapp2.2\Conta de divida.deps.json
+C:\Users\fic\Desktop\Treinando-c-\Conta de divida\bin\Debug\netcoreapp2.2\Conta de divida.runtimeconfig.json
+C:\Users\fic\Desktop\Treinando-c-\Conta de divida\bin\Debug\netcoreapp2.2\Conta de divida.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Treinando-c-\Conta de divida\bin\Debug\netcoreapp2.2\Conta de divida.dll
+C:\Users\fic\Desktop\Treinando-c-\Conta de divida\bin\Debug\netcoreapp2.2\Conta de divida.pdb
+C:\Users\fic\Desktop\Treinando-c-\Conta de divida\obj\Debug\netcoreapp2.2\Conta de divida.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Treinando-c-\Conta de divida\obj\Debug\netcoreapp2.2\Conta de divida.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Treinando-c-\Conta de divida\obj\Debug\netcoreapp2.2\Conta de divida.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Treinando-c-\Conta de divida\obj\Debug\netcoreapp2.2\Conta de divida.AssemblyInfo.cs
+C:\Users\fic\Desktop\Treinando-c-\Conta de divida\obj\Debug\netcoreapp2.2\Conta de divida.dll
+C:\Users\fic\Desktop\Treinando-c-\Conta de divida\obj\Debug\netcoreapp2.2\Conta de divida.pdb
