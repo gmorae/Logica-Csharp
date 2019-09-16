@@ -6,13 +6,16 @@ namespace triplo_do_numero
     {
         static void Main(string[] args)
         {
-           int n;
-           Console.WriteLine("Entre com um número");
-           n = int.Parse(Console.ReadLine());
+           int numero, multi;
+           Console.WriteLine("Entre com um número: ");
+           numero = int.Parse(Console.ReadLine());
+           Console.WriteLine("Digite o multiplo que você deseja: ");
+           multi = int.Parse(Console.ReadLine());
 
-           int triplo = n * n* n;
 
-           Console.WriteLine($"O triplo de {n} é {triplo}");
+           int resultado = numero * multi;
+
+           Console.WriteLine($"O triplo de {numero} é {resultado}");
         }
     }
 }
