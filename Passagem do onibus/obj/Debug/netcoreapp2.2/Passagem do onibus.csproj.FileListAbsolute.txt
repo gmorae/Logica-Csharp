@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Treinando-c-\Passagem do onibus\obj\Debug\netcoreapp2.2\Passagem do onibus.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Treinando-c-\Passagem do onibus\obj\Debug\netcoreapp2.2\Passagem do onibus.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Treinando-c-\Passagem do onibus\obj\Debug\netcoreapp2.2\Passagem do onibus.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Treinando-c-\Passagem do onibus\obj\Debug\netcoreapp2.2\Passagem do onibus.AssemblyInfo.cs
+C:\Users\fic\Desktop\Treinando-c-\Passagem do onibus\bin\Debug\netcoreapp2.2\Passagem do onibus.deps.json
+C:\Users\fic\Desktop\Treinando-c-\Passagem do onibus\bin\Debug\netcoreapp2.2\Passagem do onibus.runtimeconfig.json
+C:\Users\fic\Desktop\Treinando-c-\Passagem do onibus\bin\Debug\netcoreapp2.2\Passagem do onibus.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Treinando-c-\Passagem do onibus\bin\Debug\netcoreapp2.2\Passagem do onibus.dll
+C:\Users\fic\Desktop\Treinando-c-\Passagem do onibus\bin\Debug\netcoreapp2.2\Passagem do onibus.pdb
+C:\Users\fic\Desktop\Treinando-c-\Passagem do onibus\obj\Debug\netcoreapp2.2\Passagem do onibus.dll
+C:\Users\fic\Desktop\Treinando-c-\Passagem do onibus\obj\Debug\netcoreapp2.2\Passagem do onibus.pdb
