@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Treinando-c-\entrada ciname\bin\Debug\netcoreapp2.2\entrada ciname.deps.json
+C:\Users\fic\Desktop\Treinando-c-\entrada ciname\bin\Debug\netcoreapp2.2\entrada ciname.runtimeconfig.json
+C:\Users\fic\Desktop\Treinando-c-\entrada ciname\bin\Debug\netcoreapp2.2\entrada ciname.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Treinando-c-\entrada ciname\bin\Debug\netcoreapp2.2\entrada ciname.dll
+C:\Users\fic\Desktop\Treinando-c-\entrada ciname\bin\Debug\netcoreapp2.2\entrada ciname.pdb
+C:\Users\fic\Desktop\Treinando-c-\entrada ciname\obj\Debug\netcoreapp2.2\entrada ciname.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Treinando-c-\entrada ciname\obj\Debug\netcoreapp2.2\entrada ciname.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Treinando-c-\entrada ciname\obj\Debug\netcoreapp2.2\entrada ciname.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Treinando-c-\entrada ciname\obj\Debug\netcoreapp2.2\entrada ciname.AssemblyInfo.cs
+C:\Users\fic\Desktop\Treinando-c-\entrada ciname\obj\Debug\netcoreapp2.2\entrada ciname.dll
+C:\Users\fic\Desktop\Treinando-c-\entrada ciname\obj\Debug\netcoreapp2.2\entrada ciname.pdb
