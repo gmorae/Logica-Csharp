@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Treinando-c-\rodizio\obj\Debug\netcoreapp2.2\rodizio.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Treinando-c-\rodizio\obj\Debug\netcoreapp2.2\rodizio.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Treinando-c-\rodizio\obj\Debug\netcoreapp2.2\rodizio.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Treinando-c-\rodizio\obj\Debug\netcoreapp2.2\rodizio.AssemblyInfo.cs
+C:\Users\fic\Desktop\Treinando-c-\rodizio\bin\Debug\netcoreapp2.2\rodizio.deps.json
+C:\Users\fic\Desktop\Treinando-c-\rodizio\bin\Debug\netcoreapp2.2\rodizio.runtimeconfig.json
+C:\Users\fic\Desktop\Treinando-c-\rodizio\bin\Debug\netcoreapp2.2\rodizio.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Treinando-c-\rodizio\bin\Debug\netcoreapp2.2\rodizio.dll
+C:\Users\fic\Desktop\Treinando-c-\rodizio\bin\Debug\netcoreapp2.2\rodizio.pdb
+C:\Users\fic\Desktop\Treinando-c-\rodizio\obj\Debug\netcoreapp2.2\rodizio.dll
+C:\Users\fic\Desktop\Treinando-c-\rodizio\obj\Debug\netcoreapp2.2\rodizio.pdb
