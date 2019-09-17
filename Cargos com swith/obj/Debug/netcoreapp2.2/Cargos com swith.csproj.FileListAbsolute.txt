@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Treinando-c-\Cargos com swith\obj\Debug\netcoreapp2.2\Cargos com swith.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Treinando-c-\Cargos com swith\obj\Debug\netcoreapp2.2\Cargos com swith.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Treinando-c-\Cargos com swith\obj\Debug\netcoreapp2.2\Cargos com swith.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Treinando-c-\Cargos com swith\obj\Debug\netcoreapp2.2\Cargos com swith.AssemblyInfo.cs
+C:\Users\fic\Desktop\Treinando-c-\Cargos com swith\bin\Debug\netcoreapp2.2\Cargos com swith.deps.json
+C:\Users\fic\Desktop\Treinando-c-\Cargos com swith\bin\Debug\netcoreapp2.2\Cargos com swith.runtimeconfig.json
+C:\Users\fic\Desktop\Treinando-c-\Cargos com swith\bin\Debug\netcoreapp2.2\Cargos com swith.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Treinando-c-\Cargos com swith\bin\Debug\netcoreapp2.2\Cargos com swith.dll
+C:\Users\fic\Desktop\Treinando-c-\Cargos com swith\bin\Debug\netcoreapp2.2\Cargos com swith.pdb
+C:\Users\fic\Desktop\Treinando-c-\Cargos com swith\obj\Debug\netcoreapp2.2\Cargos com swith.dll
+C:\Users\fic\Desktop\Treinando-c-\Cargos com swith\obj\Debug\netcoreapp2.2\Cargos com swith.pdb
