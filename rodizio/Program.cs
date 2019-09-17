@@ -11,6 +11,7 @@ namespace rodizio
             String placa = Console.ReadLine();
             int cont = placa.Length;
             string final = placa.Substring(cont - 1);
+            // int final = int.Parse(placa.Substring(cont - 1))
 
             if (final == "0" || final == "1")
             {
