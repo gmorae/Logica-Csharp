@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Treinando-c-\tabuada com while\bin\Debug\netcoreapp2.2\tabuada com while.deps.json
+C:\Users\fic\Desktop\Treinando-c-\tabuada com while\bin\Debug\netcoreapp2.2\tabuada com while.runtimeconfig.json
+C:\Users\fic\Desktop\Treinando-c-\tabuada com while\bin\Debug\netcoreapp2.2\tabuada com while.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Treinando-c-\tabuada com while\bin\Debug\netcoreapp2.2\tabuada com while.dll
+C:\Users\fic\Desktop\Treinando-c-\tabuada com while\bin\Debug\netcoreapp2.2\tabuada com while.pdb
+C:\Users\fic\Desktop\Treinando-c-\tabuada com while\obj\Debug\netcoreapp2.2\tabuada com while.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Treinando-c-\tabuada com while\obj\Debug\netcoreapp2.2\tabuada com while.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Treinando-c-\tabuada com while\obj\Debug\netcoreapp2.2\tabuada com while.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Treinando-c-\tabuada com while\obj\Debug\netcoreapp2.2\tabuada com while.AssemblyInfo.cs
+C:\Users\fic\Desktop\Treinando-c-\tabuada com while\obj\Debug\netcoreapp2.2\tabuada com while.dll
+C:\Users\fic\Desktop\Treinando-c-\tabuada com while\obj\Debug\netcoreapp2.2\tabuada com while.pdb
