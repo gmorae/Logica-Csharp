@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Treinando-c-\Calculos com menu\obj\Debug\netcoreapp2.2\Calculos com menu.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Treinando-c-\Calculos com menu\obj\Debug\netcoreapp2.2\Calculos com menu.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Treinando-c-\Calculos com menu\obj\Debug\netcoreapp2.2\Calculos com menu.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Treinando-c-\Calculos com menu\obj\Debug\netcoreapp2.2\Calculos com menu.AssemblyInfo.cs
+C:\Users\fic\Desktop\Treinando-c-\Calculos com menu\bin\Debug\netcoreapp2.2\Calculos com menu.deps.json
+C:\Users\fic\Desktop\Treinando-c-\Calculos com menu\bin\Debug\netcoreapp2.2\Calculos com menu.runtimeconfig.json
+C:\Users\fic\Desktop\Treinando-c-\Calculos com menu\bin\Debug\netcoreapp2.2\Calculos com menu.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Treinando-c-\Calculos com menu\bin\Debug\netcoreapp2.2\Calculos com menu.dll
+C:\Users\fic\Desktop\Treinando-c-\Calculos com menu\bin\Debug\netcoreapp2.2\Calculos com menu.pdb
+C:\Users\fic\Desktop\Treinando-c-\Calculos com menu\obj\Debug\netcoreapp2.2\Calculos com menu.dll
+C:\Users\fic\Desktop\Treinando-c-\Calculos com menu\obj\Debug\netcoreapp2.2\Calculos com menu.pdb
