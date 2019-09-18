@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Treinando-c-\Mostra funcionario\obj\Debug\netcoreapp2.2\Mostra funcionario.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Treinando-c-\Mostra funcionario\obj\Debug\netcoreapp2.2\Mostra funcionario.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Treinando-c-\Mostra funcionario\obj\Debug\netcoreapp2.2\Mostra funcionario.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Treinando-c-\Mostra funcionario\obj\Debug\netcoreapp2.2\Mostra funcionario.AssemblyInfo.cs
+C:\Users\fic\Desktop\Treinando-c-\Mostra funcionario\bin\Debug\netcoreapp2.2\Mostra funcionario.deps.json
+C:\Users\fic\Desktop\Treinando-c-\Mostra funcionario\bin\Debug\netcoreapp2.2\Mostra funcionario.runtimeconfig.json
+C:\Users\fic\Desktop\Treinando-c-\Mostra funcionario\bin\Debug\netcoreapp2.2\Mostra funcionario.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Treinando-c-\Mostra funcionario\bin\Debug\netcoreapp2.2\Mostra funcionario.dll
+C:\Users\fic\Desktop\Treinando-c-\Mostra funcionario\bin\Debug\netcoreapp2.2\Mostra funcionario.pdb
+C:\Users\fic\Desktop\Treinando-c-\Mostra funcionario\obj\Debug\netcoreapp2.2\Mostra funcionario.dll
+C:\Users\fic\Desktop\Treinando-c-\Mostra funcionario\obj\Debug\netcoreapp2.2\Mostra funcionario.pdb
