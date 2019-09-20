@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Treinando-c-\Sistema de viagem\obj\Debug\netcoreapp2.2\Sistema de viagem.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Treinando-c-\Sistema de viagem\obj\Debug\netcoreapp2.2\Sistema de viagem.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Treinando-c-\Sistema de viagem\obj\Debug\netcoreapp2.2\Sistema de viagem.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Treinando-c-\Sistema de viagem\obj\Debug\netcoreapp2.2\Sistema de viagem.AssemblyInfo.cs
+C:\Users\fic\Desktop\Treinando-c-\Sistema de viagem\bin\Debug\netcoreapp2.2\Sistema de viagem.deps.json
+C:\Users\fic\Desktop\Treinando-c-\Sistema de viagem\bin\Debug\netcoreapp2.2\Sistema de viagem.runtimeconfig.json
+C:\Users\fic\Desktop\Treinando-c-\Sistema de viagem\bin\Debug\netcoreapp2.2\Sistema de viagem.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Treinando-c-\Sistema de viagem\bin\Debug\netcoreapp2.2\Sistema de viagem.dll
+C:\Users\fic\Desktop\Treinando-c-\Sistema de viagem\bin\Debug\netcoreapp2.2\Sistema de viagem.pdb
+C:\Users\fic\Desktop\Treinando-c-\Sistema de viagem\obj\Debug\netcoreapp2.2\Sistema de viagem.dll
+C:\Users\fic\Desktop\Treinando-c-\Sistema de viagem\obj\Debug\netcoreapp2.2\Sistema de viagem.pdb
