@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Treinando-c-\coding_dojo\obj\Debug\netcoreapp2.2\coding_dojo.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Treinando-c-\coding_dojo\obj\Debug\netcoreapp2.2\coding_dojo.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Treinando-c-\coding_dojo\obj\Debug\netcoreapp2.2\coding_dojo.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Treinando-c-\coding_dojo\obj\Debug\netcoreapp2.2\coding_dojo.AssemblyInfo.cs
+C:\Users\fic\Desktop\Treinando-c-\coding_dojo\bin\Debug\netcoreapp2.2\coding_dojo.deps.json
+C:\Users\fic\Desktop\Treinando-c-\coding_dojo\bin\Debug\netcoreapp2.2\coding_dojo.runtimeconfig.json
+C:\Users\fic\Desktop\Treinando-c-\coding_dojo\bin\Debug\netcoreapp2.2\coding_dojo.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Treinando-c-\coding_dojo\bin\Debug\netcoreapp2.2\coding_dojo.dll
+C:\Users\fic\Desktop\Treinando-c-\coding_dojo\bin\Debug\netcoreapp2.2\coding_dojo.pdb
+C:\Users\fic\Desktop\Treinando-c-\coding_dojo\obj\Debug\netcoreapp2.2\coding_dojo.dll
+C:\Users\fic\Desktop\Treinando-c-\coding_dojo\obj\Debug\netcoreapp2.2\coding_dojo.pdb
