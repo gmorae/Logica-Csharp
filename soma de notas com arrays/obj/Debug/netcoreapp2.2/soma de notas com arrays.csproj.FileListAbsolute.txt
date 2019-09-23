@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Treinando-c-\soma de notas com arrays\bin\Debug\netcoreapp2.2\soma de notas com arrays.deps.json
+C:\Users\fic\Desktop\Treinando-c-\soma de notas com arrays\bin\Debug\netcoreapp2.2\soma de notas com arrays.runtimeconfig.json
+C:\Users\fic\Desktop\Treinando-c-\soma de notas com arrays\bin\Debug\netcoreapp2.2\soma de notas com arrays.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Treinando-c-\soma de notas com arrays\bin\Debug\netcoreapp2.2\soma de notas com arrays.dll
+C:\Users\fic\Desktop\Treinando-c-\soma de notas com arrays\bin\Debug\netcoreapp2.2\soma de notas com arrays.pdb
+C:\Users\fic\Desktop\Treinando-c-\soma de notas com arrays\obj\Debug\netcoreapp2.2\soma de notas com arrays.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Treinando-c-\soma de notas com arrays\obj\Debug\netcoreapp2.2\soma de notas com arrays.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Treinando-c-\soma de notas com arrays\obj\Debug\netcoreapp2.2\soma de notas com arrays.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Treinando-c-\soma de notas com arrays\obj\Debug\netcoreapp2.2\soma de notas com arrays.AssemblyInfo.cs
+C:\Users\fic\Desktop\Treinando-c-\soma de notas com arrays\obj\Debug\netcoreapp2.2\soma de notas com arrays.dll
+C:\Users\fic\Desktop\Treinando-c-\soma de notas com arrays\obj\Debug\netcoreapp2.2\soma de notas com arrays.pdb
