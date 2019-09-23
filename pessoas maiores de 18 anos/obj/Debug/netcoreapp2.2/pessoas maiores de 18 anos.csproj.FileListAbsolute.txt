@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Treinando-c-\pessoas maiores de 18 anos\bin\Debug\netcoreapp2.2\pessoas maiores de 18 anos.deps.json
+C:\Users\fic\Desktop\Treinando-c-\pessoas maiores de 18 anos\bin\Debug\netcoreapp2.2\pessoas maiores de 18 anos.runtimeconfig.json
+C:\Users\fic\Desktop\Treinando-c-\pessoas maiores de 18 anos\bin\Debug\netcoreapp2.2\pessoas maiores de 18 anos.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Treinando-c-\pessoas maiores de 18 anos\bin\Debug\netcoreapp2.2\pessoas maiores de 18 anos.dll
+C:\Users\fic\Desktop\Treinando-c-\pessoas maiores de 18 anos\bin\Debug\netcoreapp2.2\pessoas maiores de 18 anos.pdb
+C:\Users\fic\Desktop\Treinando-c-\pessoas maiores de 18 anos\obj\Debug\netcoreapp2.2\pessoas maiores de 18 anos.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Treinando-c-\pessoas maiores de 18 anos\obj\Debug\netcoreapp2.2\pessoas maiores de 18 anos.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Treinando-c-\pessoas maiores de 18 anos\obj\Debug\netcoreapp2.2\pessoas maiores de 18 anos.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Treinando-c-\pessoas maiores de 18 anos\obj\Debug\netcoreapp2.2\pessoas maiores de 18 anos.AssemblyInfo.cs
+C:\Users\fic\Desktop\Treinando-c-\pessoas maiores de 18 anos\obj\Debug\netcoreapp2.2\pessoas maiores de 18 anos.dll
+C:\Users\fic\Desktop\Treinando-c-\pessoas maiores de 18 anos\obj\Debug\netcoreapp2.2\pessoas maiores de 18 anos.pdb
