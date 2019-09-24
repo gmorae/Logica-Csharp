@@ -18,9 +18,9 @@ namespace Cadastro_de_produtos_com_for
                 produtoPreco[i] = double.Parse(Console.ReadLine());
 
             }
-            for (int i = 0; i < 2; i++)
+            foreach (var item in produtoNome)
             {
-                Console.WriteLine($"Produto => {produtoNome[i]} = {produtoPreco[i]} reais");
+                Console.WriteLine($"Produto => {item}");
             }
             for (int i = 0; i < 2; i++)
             {
